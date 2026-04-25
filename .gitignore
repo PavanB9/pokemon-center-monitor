@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime / user files
+settings.json
+pokeball.ico
+CHANGELOG.md
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

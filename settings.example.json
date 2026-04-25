@@ -1,0 +1,6 @@
+{
+  "minimize_to_tray": false,
+  "sound_enabled": true,
+  "interval_minutes": 3,
+  "discord_webhook_url": ""
+}
